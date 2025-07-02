@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Iniciar Sesión</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Mi Tienda</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Inicio</a></li>
+        <li><a href="login.html">Iniciar Sesión</a></li>
+        <li><a href="registro.html">Registrarse</a></li>
+        <li><a href="carrito.html">Carrito</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Iniciar Sesión</h2>
+    <form id="form-login">
+      <input type="text" id="usuario" placeholder="Nombre de usuario" required>
+      <input type="password" id="clave" placeholder="Contraseña" required>
+      <button type="submit">Iniciar Sesión</button>
+    </form>
+    <p id="mensaje-login"></p>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Mi Tienda - Todos los derechos reservados</p>
+  </footer>
+
+  <script src="login.js"></script>
+</body>
+</html>

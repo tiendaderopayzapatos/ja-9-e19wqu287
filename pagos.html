@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Pago</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Mi Tienda</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Inicio</a></li>
+        <li><a href="login.html">Iniciar Sesión</a></li>
+        <li><a href="registro.html">Registrarse</a></li>
+        <li><a href="carrito.html">Carrito</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Pago</h2>
+    <form id="form-pago">
+      <input type="text" id="numero-tarjeta" placeholder="Número de tarjeta (16 dígitos)" maxlength="16" required>
+      <select id="envio">
+        <option value="quito">Quito (+$2)</option>
+        <option value="guayaquil">Guayaquil (+$3)</option>
+        <option value="cuenca">Cuenca (+$4)</option>
+        <option value="otros">Otros (+$5)</option>
+      </select>
+      <button type="submit">Pagar</button>
+    </form>
+    <p id="mensaje-pago"></p>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Mi Tienda - Todos los derechos reservados</p>
+  </footer>
+
+  <script src="pagos.js"></script>
+</body>
+</html>
