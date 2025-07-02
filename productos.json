@@ -1,0 +1,1362 @@
+[
+  {
+    "id": 1,
+    "nombre": "Camisa modelo 1",
+    "categoria": "Camisas",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "precio": 17,
+    "imagen": "img/camisas_1.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Camisa modelo 2",
+    "categoria": "Camisas",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "precio": 19,
+    "imagen": "img/camisas_2.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Camisa modelo 3",
+    "categoria": "Camisas",
+    "talla": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "precio": 21,
+    "imagen": "img/camisas_3.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Camisa modelo 4",
+    "categoria": "Camisas",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "precio": 23,
+    "imagen": "img/camisas_4.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Camisa modelo 5",
+    "categoria": "Camisas",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "precio": 20,
+    "imagen": "img/camisas_5.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Camisa modelo 6",
+    "categoria": "Camisas",
+    "talla": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "precio": 22,
+    "imagen": "img/camisas_6.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Camisa modelo 7",
+    "categoria": "Camisas",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "precio": 24,
+    "imagen": "img/camisas_7.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Camisa modelo 8",
+    "categoria": "Camisas",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "precio": 26,
+    "imagen": "img/camisas_8.jpg"
+  },
+  {
+    "id": 9,
+    "nombre": "Camisa modelo 9",
+    "categoria": "Camisas",
+    "talla": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "precio": 28,
+    "imagen": "img/camisas_9.jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "Camisa modelo 10",
+    "categoria": "Camisas",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "precio": 25,
+    "imagen": "img/camisas_10.jpg"
+  },
+  {
+    "id": 11,
+    "nombre": "Pantalone modelo 1",
+    "categoria": "Pantalones",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "precio": 17,
+    "imagen": "img/pantalones_1.jpg"
+  },
+  {
+    "id": 12,
+    "nombre": "Pantalone modelo 2",
+    "categoria": "Pantalones",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "precio": 19,
+    "imagen": "img/pantalones_2.jpg"
+  },
+  {
+    "id": 13,
+    "nombre": "Pantalone modelo 3",
+    "categoria": "Pantalones",
+    "talla": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "precio": 21,
+    "imagen": "img/pantalones_3.jpg"
+  },
+  {
+    "id": 14,
+    "nombre": "Pantalone modelo 4",
+    "categoria": "Pantalones",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "precio": 23,
+    "imagen": "img/pantalones_4.jpg"
+  },
+  {
+    "id": 15,
+    "nombre": "Pantalone modelo 5",
+    "categoria": "Pantalones",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "precio": 20,
+    "imagen": "img/pantalones_5.jpg"
+  },
+  {
+    "id": 16,
+    "nombre": "Pantalone modelo 6",
+    "categoria": "Pantalones",
+    "talla": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "precio": 22,
+    "imagen": "img/pantalones_6.jpg"
+  },
+  {
+    "id": 17,
+    "nombre": "Pantalone modelo 7",
+    "categoria": "Pantalones",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "precio": 24,
+    "imagen": "img/pantalones_7.jpg"
+  },
+  {
+    "id": 18,
+    "nombre": "Pantalone modelo 8",
+    "categoria": "Pantalones",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "precio": 26,
+    "imagen": "img/pantalones_8.jpg"
+  },
+  {
+    "id": 19,
+    "nombre": "Pantalone modelo 9",
+    "categoria": "Pantalones",
+    "talla": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "precio": 28,
+    "imagen": "img/pantalones_9.jpg"
+  },
+  {
+    "id": 20,
+    "nombre": "Pantalone modelo 10",
+    "categoria": "Pantalones",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "precio": 25,
+    "imagen": "img/pantalones_10.jpg"
+  },
+  {
+    "id": 21,
+    "nombre": "Vestido modelo 1",
+    "categoria": "Vestidos",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "precio": 17,
+    "imagen": "img/vestidos_1.jpg"
+  },
+  {
+    "id": 22,
+    "nombre": "Vestido modelo 2",
+    "categoria": "Vestidos",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "precio": 19,
+    "imagen": "img/vestidos_2.jpg"
+  },
+  {
+    "id": 23,
+    "nombre": "Vestido modelo 3",
+    "categoria": "Vestidos",
+    "talla": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "precio": 21,
+    "imagen": "img/vestidos_3.jpg"
+  },
+  {
+    "id": 24,
+    "nombre": "Vestido modelo 4",
+    "categoria": "Vestidos",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "precio": 23,
+    "imagen": "img/vestidos_4.jpg"
+  },
+  {
+    "id": 25,
+    "nombre": "Vestido modelo 5",
+    "categoria": "Vestidos",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "precio": 20,
+    "imagen": "img/vestidos_5.jpg"
+  },
+  {
+    "id": 26,
+    "nombre": "Vestido modelo 6",
+    "categoria": "Vestidos",
+    "talla": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "precio": 22,
+    "imagen": "img/vestidos_6.jpg"
+  },
+  {
+    "id": 27,
+    "nombre": "Vestido modelo 7",
+    "categoria": "Vestidos",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "precio": 24,
+    "imagen": "img/vestidos_7.jpg"
+  },
+  {
+    "id": 28,
+    "nombre": "Vestido modelo 8",
+    "categoria": "Vestidos",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "precio": 26,
+    "imagen": "img/vestidos_8.jpg"
+  },
+  {
+    "id": 29,
+    "nombre": "Vestido modelo 9",
+    "categoria": "Vestidos",
+    "talla": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "precio": 28,
+    "imagen": "img/vestidos_9.jpg"
+  },
+  {
+    "id": 30,
+    "nombre": "Vestido modelo 10",
+    "categoria": "Vestidos",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "precio": 25,
+    "imagen": "img/vestidos_10.jpg"
+  },
+  {
+    "id": 31,
+    "nombre": "Zapatilla modelo 1",
+    "categoria": "Zapatillas",
+    "talla": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "precio": 17,
+    "imagen": "img/zapatillas_1.jpg"
+  },
+  {
+    "id": 32,
+    "nombre": "Zapatilla modelo 2",
+    "categoria": "Zapatillas",
+    "talla": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "precio": 19,
+    "imagen": "img/zapatillas_2.jpg"
+  },
+  {
+    "id": 33,
+    "nombre": "Zapatilla modelo 3",
+    "categoria": "Zapatillas",
+    "talla": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "precio": 21,
+    "imagen": "img/zapatillas_3.jpg"
+  },
+  {
+    "id": 34,
+    "nombre": "Zapatilla modelo 4",
+    "categoria": "Zapatillas",
+    "talla": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "precio": 23,
+    "imagen": "img/zapatillas_4.jpg"
+  },
+  {
+    "id": 35,
+    "nombre": "Zapatilla modelo 5",
+    "categoria": "Zapatillas",
+    "talla": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "precio": 20,
+    "imagen": "img/zapatillas_5.jpg"
+  },
+  {
+    "id": 36,
+    "nombre": "Zapatilla modelo 6",
+    "categoria": "Zapatillas",
+    "talla": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "precio": 22,
+    "imagen": "img/zapatillas_6.jpg"
+  },
+  {
+    "id": 37,
+    "nombre": "Zapatilla modelo 7",
+    "categoria": "Zapatillas",
+    "talla": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "precio": 24,
+    "imagen": "img/zapatillas_7.jpg"
+  },
+  {
+    "id": 38,
+    "nombre": "Zapatilla modelo 8",
+    "categoria": "Zapatillas",
+    "talla": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "precio": 26,
+    "imagen": "img/zapatillas_8.jpg"
+  },
+  {
+    "id": 39,
+    "nombre": "Zapatilla modelo 9",
+    "categoria": "Zapatillas",
+    "talla": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "precio": 28,
+    "imagen": "img/zapatillas_9.jpg"
+  },
+  {
+    "id": 40,
+    "nombre": "Zapatilla modelo 10",
+    "categoria": "Zapatillas",
+    "talla": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "precio": 25,
+    "imagen": "img/zapatillas_10.jpg"
+  },
+  {
+    "id": 41,
+    "nombre": "Zapato modelo 1",
+    "categoria": "Zapatos",
+    "talla": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "precio": 17,
+    "imagen": "img/zapatos_1.jpg"
+  },
+  {
+    "id": 42,
+    "nombre": "Zapato modelo 2",
+    "categoria": "Zapatos",
+    "talla": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "precio": 19,
+    "imagen": "img/zapatos_2.jpg"
+  },
+  {
+    "id": 43,
+    "nombre": "Zapato modelo 3",
+    "categoria": "Zapatos",
+    "talla": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "precio": 21,
+    "imagen": "img/zapatos_3.jpg"
+  },
+  {
+    "id": 44,
+    "nombre": "Zapato modelo 4",
+    "categoria": "Zapatos",
+    "talla": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "precio": 23,
+    "imagen": "img/zapatos_4.jpg"
+  },
+  {
+    "id": 45,
+    "nombre": "Zapato modelo 5",
+    "categoria": "Zapatos",
+    "talla": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "precio": 20,
+    "imagen": "img/zapatos_5.jpg"
+  },
+  {
+    "id": 46,
+    "nombre": "Zapato modelo 6",
+    "categoria": "Zapatos",
+    "talla": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "precio": 22,
+    "imagen": "img/zapatos_6.jpg"
+  },
+  {
+    "id": 47,
+    "nombre": "Zapato modelo 7",
+    "categoria": "Zapatos",
+    "talla": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "precio": 24,
+    "imagen": "img/zapatos_7.jpg"
+  },
+  {
+    "id": 48,
+    "nombre": "Zapato modelo 8",
+    "categoria": "Zapatos",
+    "talla": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "precio": 26,
+    "imagen": "img/zapatos_8.jpg"
+  },
+  {
+    "id": 49,
+    "nombre": "Zapato modelo 9",
+    "categoria": "Zapatos",
+    "talla": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "precio": 28,
+    "imagen": "img/zapatos_9.jpg"
+  },
+  {
+    "id": 50,
+    "nombre": "Zapato modelo 10",
+    "categoria": "Zapatos",
+    "talla": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "precio": 25,
+    "imagen": "img/zapatos_10.jpg"
+  },
+  {
+    "id": 51,
+    "nombre": "Trajes de bañ modelo 1",
+    "categoria": "Trajes de baño",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "precio": 17,
+    "imagen": "img/trajes_de_baño_1.jpg"
+  },
+  {
+    "id": 52,
+    "nombre": "Trajes de bañ modelo 2",
+    "categoria": "Trajes de baño",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "precio": 19,
+    "imagen": "img/trajes_de_baño_2.jpg"
+  },
+  {
+    "id": 53,
+    "nombre": "Trajes de bañ modelo 3",
+    "categoria": "Trajes de baño",
+    "talla": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "precio": 21,
+    "imagen": "img/trajes_de_baño_3.jpg"
+  },
+  {
+    "id": 54,
+    "nombre": "Trajes de bañ modelo 4",
+    "categoria": "Trajes de baño",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "precio": 23,
+    "imagen": "img/trajes_de_baño_4.jpg"
+  },
+  {
+    "id": 55,
+    "nombre": "Trajes de bañ modelo 5",
+    "categoria": "Trajes de baño",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "precio": 20,
+    "imagen": "img/trajes_de_baño_5.jpg"
+  },
+  {
+    "id": 56,
+    "nombre": "Trajes de bañ modelo 6",
+    "categoria": "Trajes de baño",
+    "talla": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "precio": 22,
+    "imagen": "img/trajes_de_baño_6.jpg"
+  },
+  {
+    "id": 57,
+    "nombre": "Trajes de bañ modelo 7",
+    "categoria": "Trajes de baño",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "precio": 24,
+    "imagen": "img/trajes_de_baño_7.jpg"
+  },
+  {
+    "id": 58,
+    "nombre": "Trajes de bañ modelo 8",
+    "categoria": "Trajes de baño",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "precio": 26,
+    "imagen": "img/trajes_de_baño_8.jpg"
+  },
+  {
+    "id": 59,
+    "nombre": "Trajes de bañ modelo 9",
+    "categoria": "Trajes de baño",
+    "talla": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "precio": 28,
+    "imagen": "img/trajes_de_baño_9.jpg"
+  },
+  {
+    "id": 60,
+    "nombre": "Trajes de bañ modelo 10",
+    "categoria": "Trajes de baño",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "precio": 25,
+    "imagen": "img/trajes_de_baño_10.jpg"
+  },
+  {
+    "id": 61,
+    "nombre": "Falda modelo 1",
+    "categoria": "Faldas",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "precio": 17,
+    "imagen": "img/faldas_1.jpg"
+  },
+  {
+    "id": 62,
+    "nombre": "Falda modelo 2",
+    "categoria": "Faldas",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "precio": 19,
+    "imagen": "img/faldas_2.jpg"
+  },
+  {
+    "id": 63,
+    "nombre": "Falda modelo 3",
+    "categoria": "Faldas",
+    "talla": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "precio": 21,
+    "imagen": "img/faldas_3.jpg"
+  },
+  {
+    "id": 64,
+    "nombre": "Falda modelo 4",
+    "categoria": "Faldas",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "precio": 23,
+    "imagen": "img/faldas_4.jpg"
+  },
+  {
+    "id": 65,
+    "nombre": "Falda modelo 5",
+    "categoria": "Faldas",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "precio": 20,
+    "imagen": "img/faldas_5.jpg"
+  },
+  {
+    "id": 66,
+    "nombre": "Falda modelo 6",
+    "categoria": "Faldas",
+    "talla": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "precio": 22,
+    "imagen": "img/faldas_6.jpg"
+  },
+  {
+    "id": 67,
+    "nombre": "Falda modelo 7",
+    "categoria": "Faldas",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "precio": 24,
+    "imagen": "img/faldas_7.jpg"
+  },
+  {
+    "id": 68,
+    "nombre": "Falda modelo 8",
+    "categoria": "Faldas",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "precio": 26,
+    "imagen": "img/faldas_8.jpg"
+  },
+  {
+    "id": 69,
+    "nombre": "Falda modelo 9",
+    "categoria": "Faldas",
+    "talla": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "precio": 28,
+    "imagen": "img/faldas_9.jpg"
+  },
+  {
+    "id": 70,
+    "nombre": "Falda modelo 10",
+    "categoria": "Faldas",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "precio": 25,
+    "imagen": "img/faldas_10.jpg"
+  },
+  {
+    "id": 71,
+    "nombre": "Chaqueta modelo 1",
+    "categoria": "Chaquetas",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "precio": 17,
+    "imagen": "img/chaquetas_1.jpg"
+  },
+  {
+    "id": 72,
+    "nombre": "Chaqueta modelo 2",
+    "categoria": "Chaquetas",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "precio": 19,
+    "imagen": "img/chaquetas_2.jpg"
+  },
+  {
+    "id": 73,
+    "nombre": "Chaqueta modelo 3",
+    "categoria": "Chaquetas",
+    "talla": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "precio": 21,
+    "imagen": "img/chaquetas_3.jpg"
+  },
+  {
+    "id": 74,
+    "nombre": "Chaqueta modelo 4",
+    "categoria": "Chaquetas",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "precio": 23,
+    "imagen": "img/chaquetas_4.jpg"
+  },
+  {
+    "id": 75,
+    "nombre": "Chaqueta modelo 5",
+    "categoria": "Chaquetas",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "precio": 20,
+    "imagen": "img/chaquetas_5.jpg"
+  },
+  {
+    "id": 76,
+    "nombre": "Chaqueta modelo 6",
+    "categoria": "Chaquetas",
+    "talla": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "precio": 22,
+    "imagen": "img/chaquetas_6.jpg"
+  },
+  {
+    "id": 77,
+    "nombre": "Chaqueta modelo 7",
+    "categoria": "Chaquetas",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "precio": 24,
+    "imagen": "img/chaquetas_7.jpg"
+  },
+  {
+    "id": 78,
+    "nombre": "Chaqueta modelo 8",
+    "categoria": "Chaquetas",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "precio": 26,
+    "imagen": "img/chaquetas_8.jpg"
+  },
+  {
+    "id": 79,
+    "nombre": "Chaqueta modelo 9",
+    "categoria": "Chaquetas",
+    "talla": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "precio": 28,
+    "imagen": "img/chaquetas_9.jpg"
+  },
+  {
+    "id": 80,
+    "nombre": "Chaqueta modelo 10",
+    "categoria": "Chaquetas",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "precio": 25,
+    "imagen": "img/chaquetas_10.jpg"
+  },
+  {
+    "id": 81,
+    "nombre": "Blusa modelo 1",
+    "categoria": "Blusas",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "precio": 17,
+    "imagen": "img/blusas_1.jpg"
+  },
+  {
+    "id": 82,
+    "nombre": "Blusa modelo 2",
+    "categoria": "Blusas",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "precio": 19,
+    "imagen": "img/blusas_2.jpg"
+  },
+  {
+    "id": 83,
+    "nombre": "Blusa modelo 3",
+    "categoria": "Blusas",
+    "talla": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "precio": 21,
+    "imagen": "img/blusas_3.jpg"
+  },
+  {
+    "id": 84,
+    "nombre": "Blusa modelo 4",
+    "categoria": "Blusas",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "precio": 23,
+    "imagen": "img/blusas_4.jpg"
+  },
+  {
+    "id": 85,
+    "nombre": "Blusa modelo 5",
+    "categoria": "Blusas",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "precio": 20,
+    "imagen": "img/blusas_5.jpg"
+  },
+  {
+    "id": 86,
+    "nombre": "Blusa modelo 6",
+    "categoria": "Blusas",
+    "talla": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "precio": 22,
+    "imagen": "img/blusas_6.jpg"
+  },
+  {
+    "id": 87,
+    "nombre": "Blusa modelo 7",
+    "categoria": "Blusas",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "precio": 24,
+    "imagen": "img/blusas_7.jpg"
+  },
+  {
+    "id": 88,
+    "nombre": "Blusa modelo 8",
+    "categoria": "Blusas",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "precio": 26,
+    "imagen": "img/blusas_8.jpg"
+  },
+  {
+    "id": 89,
+    "nombre": "Blusa modelo 9",
+    "categoria": "Blusas",
+    "talla": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "precio": 28,
+    "imagen": "img/blusas_9.jpg"
+  },
+  {
+    "id": 90,
+    "nombre": "Blusa modelo 10",
+    "categoria": "Blusas",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "precio": 25,
+    "imagen": "img/blusas_10.jpg"
+  },
+  {
+    "id": 91,
+    "nombre": "Accesorio modelo 1",
+    "categoria": "Accesorios",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "precio": 17,
+    "imagen": "img/accesorios_1.jpg"
+  },
+  {
+    "id": 92,
+    "nombre": "Accesorio modelo 2",
+    "categoria": "Accesorios",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "precio": 19,
+    "imagen": "img/accesorios_2.jpg"
+  },
+  {
+    "id": 93,
+    "nombre": "Accesorio modelo 3",
+    "categoria": "Accesorios",
+    "talla": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "precio": 21,
+    "imagen": "img/accesorios_3.jpg"
+  },
+  {
+    "id": 94,
+    "nombre": "Accesorio modelo 4",
+    "categoria": "Accesorios",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "precio": 23,
+    "imagen": "img/accesorios_4.jpg"
+  },
+  {
+    "id": 95,
+    "nombre": "Accesorio modelo 5",
+    "categoria": "Accesorios",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "precio": 20,
+    "imagen": "img/accesorios_5.jpg"
+  },
+  {
+    "id": 96,
+    "nombre": "Accesorio modelo 6",
+    "categoria": "Accesorios",
+    "talla": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "precio": 22,
+    "imagen": "img/accesorios_6.jpg"
+  },
+  {
+    "id": 97,
+    "nombre": "Accesorio modelo 7",
+    "categoria": "Accesorios",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "precio": 24,
+    "imagen": "img/accesorios_7.jpg"
+  },
+  {
+    "id": 98,
+    "nombre": "Accesorio modelo 8",
+    "categoria": "Accesorios",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "precio": 26,
+    "imagen": "img/accesorios_8.jpg"
+  },
+  {
+    "id": 99,
+    "nombre": "Accesorio modelo 9",
+    "categoria": "Accesorios",
+    "talla": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "precio": 28,
+    "imagen": "img/accesorios_9.jpg"
+  },
+  {
+    "id": 100,
+    "nombre": "Accesorio modelo 10",
+    "categoria": "Accesorios",
+    "talla": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "precio": 25,
+    "imagen": "img/accesorios_10.jpg"
+  }
+]
